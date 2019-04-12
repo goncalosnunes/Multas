@@ -27,6 +27,6 @@ namespace Multas.Models {
         // lista das multas associadas ao Condutor
         public ICollection<Multas> ListaDasMultas { get; set; }
 
-
+        
    }
 }
